@@ -1,4 +1,4 @@
-# raspy-portfolio
+# portfolio
 
 このリポジトリは、私が学習・制作してきた内容をまとめたポートフォリオの目次となります。  
 各リンク先は GitHub 上のリポジトリで、詳細なコードや説明をご覧いただけます。
@@ -110,34 +110,11 @@ CORS 設定、JSON レスポンス、HTTP メソッドの実装例などを含�
 | 2025-07 | 独習 JavaScript                                                          |
 | 2025-07 | プロを目指す人のための TypeScript 入門                                   |
 | 2025 07 | Docker & 仮想サーバー                                                    |
+| 2025 12 | 独習 C++                                                                 |
 | next..  |                                                                          |
 
 ---
 
 ### 今後の学習予定
 
-- [ ] **TypeScript**: 型安全な JavaScript 開発
-- [ ] **React**: モダンフロントエンド開発
-- [ ] **Django**: Python Web フレームワーク上級
-- [ ] **CI/CD**: GitHub Actions、自動デプロイ
-- [ ] **AWS**: クラウドサービス、サーバーレス
-- [ ] **テスト**: 単体テスト、統合テスト
-- [ ] **マイクロサービス**: 分散システム設計
-- [ ] **パフォーマンス最適化**: 高負荷対応
-- [ ] **チーム開発**: アジャイル、スクラム
-
-### コミット規約
-
-```bash
-# 構文: <type>(<scope>): <description>
-
-feat(frontend): ユーザー認証機能を追加
-fix(api): データベース接続エラーを修正
-docs(readme): プロジェクト概要を更新
-style(css): レスポンシブデザインを改善
-refactor(models): データベースモデルを最適化
-test(unit): ユーザー機能のテストを追加
-practice(javascript): DOM操作の練習問題を実装
-add(file): 新規ファイルを追加
-delete(file): ファイルを削除
-```
+C++, DirectX, SDL, SMFL, etc
